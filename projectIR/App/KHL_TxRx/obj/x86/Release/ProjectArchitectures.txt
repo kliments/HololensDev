@@ -1,0 +1,1 @@
+D:\UnityProjects\hololensdev\projectIR\App\KHL_TxRx\KHL_TxRx.csproj;x86
